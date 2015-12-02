@@ -1,0 +1,6 @@
+"Tipo Domanda";"Nome";"Risposta Obbligatoria";"Numero minimo";"Numero massimo";"Domanda";"Corretta1";"Risposta1";"Corretta2";"Risposta2";"Corretta3";"Risposta3";"Corretta4";"Risposta4";"Corretta5";"Risposta5";"Corretta6";"Risposta6"
+"Caselle di Spunta";;"si";1;1;"Come consideri la tua esperienza di apprendimento nei moduli CLIL?";1;"Molto importante";1;"Importante";1;"Parzialmente importante";1;"Non importante";1;;1;
+"Etichetta";;;;;"4 Che difficoltà hai incontrato?";;;;;;;;;;;;
+"Testo lungo";;"no";1;5;"Altre difficoltà (specificare):";;;;;;;;;;;;
+"si/no";;"si";;;"Hai gradito l'esperienza? ";;;;;;;;;;;;
+"Pulsanti radio";;"si";;;"Che tipo di attività di classe consideri più utile? (solo una scelta)";1;"Lezione frontale";1;"Lezione interattiva (tra studenti, con il supporto del docente)";1;"Lavoro individuale";1;"Guardare dei video";1;"Lavoro a coppie";1;"Lavoro di gruppo"
