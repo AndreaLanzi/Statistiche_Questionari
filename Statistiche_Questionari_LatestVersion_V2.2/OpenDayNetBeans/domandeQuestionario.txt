@@ -1,0 +1,19 @@
+Q01-Come consideri la tua esperienza di apprendimento nei moduli CLIL?
+Q02-Le attività CLIL ti hanno aiutato/a a migliorare la tua abilità di comunicare nella Lingua utilizzata?
+Q03-Come valuti il tuo apprendimento della disciplina studiata nella lingua straniera?
+Q04-Che difficoltà hai incontrato? Il linguaggio del materiale era troppo difficile.
+Q05-Che difficoltà hai incontrato? Le domande e le spiegazioni erano troppo difficili.
+Q06-Che difficoltà hai incontrato? Il ritmo del lavoro era troppo sostenuto.
+Q07-Che difficoltà hai incontrato? Non mi è piaciuto come i moduli erano presentati.
+Q08-Che difficoltà hai incontrato?  Altre difficoltà (specificare)
+Q09-Quali strumenti utilizzati dal docente sono stati utili? (scegline uno o più)
+Q10-altro:
+Q11-Pensi che questa esperienza CLIL sia stata utile per te?
+Q12-Perché?
+Q13-Hai gradito l'esperienza?
+Q14-Perché?
+Q15-Nel prossimo anno, vorresti svolgere nuovamente un'attività CLIL?
+Q16-Perché?
+Q17-Pensi che l'attività CLIL dovrebbe essere migliorata?
+Q18-Se "Sì", dai qualche suggerimento; se "No", spiega perché
+Q19-Che tipo di attività di classe consideri più utile? (solo una scelta)
